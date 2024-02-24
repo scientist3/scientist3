@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/scientist/">
-  <img align="left" alt="Aamir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aamir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/scientist3/scientist3/main/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aamirsofi)
